@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Oyopiz
+- 👋 Hi, I’m Kevin
 - 👀 I’m interested in mobile development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Java android projects.
